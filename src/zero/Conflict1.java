@@ -1,7 +1,7 @@
 package zero;
 
 public class Conflict1 {
-    public statics void main(String[] args) {
+    public static default void main(String[] args) {
         System.out.println("This is first conflict1");
         System.out.println("this is second conflict");
     }
