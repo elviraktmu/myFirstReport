@@ -5,7 +5,7 @@ public class Conflict1 {
         System.out.println("This is first conflict1");
         System.out.println("this is second conflict");
 
-        asan
+
     }
 
 }
